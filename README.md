@@ -2,6 +2,8 @@
 
 A social media to share interesting links with others and enjoy diverse content.
 
+<img src="./public/assets/ezgif.com-gif-maker.gif" />
+
 Try it out now at https://projeto11-linkr.vercel.app/timeline
 
 ## About
