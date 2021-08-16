@@ -33,6 +33,7 @@ We worked in two sprints based on agile mindset scrum.
 ## Technologies
 The following tools and frameworks were used in the construction of the project:<br>
 
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
   ![Axios](https://img.shields.io/badge/Axios-007EC6?style=for-the-badge)&nbsp;
